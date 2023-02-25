@@ -1,7 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Q-Qing)](https://github.com/anuraghazra/github-readme-stats)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Q-Qing&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
+<!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Q-Qing&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10) -->
 
 
 <!--
